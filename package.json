@@ -1,0 +1,13 @@
+{
+  "name": "Assister",
+  "description": "Bot charakteryzujący się swoją prostotą działania. Został on napisany w języku LUA oraz jest Botem w polskiej wersji językowej. Posiada on wiele funkcji, zaczynając od zabawy kończąc na moderacji. Assister jest dostępny całkowicie darmowo.",
+  "version": "0.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
